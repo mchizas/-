@@ -11,7 +11,7 @@ Arduino Mega2560
 A0 RPWM  
 A1 LPWM(方向错误时将RPWM LPWM调转）   
 
-输出
+输出  
 9  PUL  
 10 DIR  
 11 ENA  
