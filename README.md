@@ -4,7 +4,7 @@
 ## 支持设备
 Arduino Uno  
 Arduino Nano  
--Arduino Mega2560  
+Arduino Mega2560  
 
 ## 接线
 输入  
